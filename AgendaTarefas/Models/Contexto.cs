@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.Infrastructure;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace AgendaTarefas.Models
 {
@@ -15,23 +14,23 @@ namespace AgendaTarefas.Models
 
 
 
-       
 
 
-        
 
 
-        
 
 
-       
 
 
-        
 
-        
-        
-            
+
+
+
+
+
+
+
+
 
     }
 }
